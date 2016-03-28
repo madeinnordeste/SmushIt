@@ -48,6 +48,9 @@ Requirements
 Changelog
 ---------
 
+- 1.2
+  - Update SMUSH_URL to api.resmush.it
+
 - 1.1
   - Added request throttling (Thanks [Elan Ruusamäe](https://github.com/glensc))
 

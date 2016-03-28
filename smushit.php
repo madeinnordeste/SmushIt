@@ -13,7 +13,10 @@
 class SmushIt {
 
 	// URL to the Smush.it web service.
-	const SMUSH_URL = 'http://www.resmush.it/ws.php?';
+	//const SMUSH_URL = 'http://www.resmush.it/ws.php?';
+	const SMUSH_URL = 'http://api.resmush.it/ws.php?';
+
+	
 
 	// User agent string to set for the request.
 	const USER_AGENT = 'ShushIt PHP Client/1.2 (+http://github.com/davgothic/SmushIt)';
